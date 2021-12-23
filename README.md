@@ -1,4 +1,4 @@
-# Db-requests
+# postgres req
 
 GET 
 PUT 
