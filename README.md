@@ -1,4 +1,6 @@
-# postgres req
+# postgres
+
+## sqlx + go
 
 GET 
 PUT 
